@@ -1,0 +1,4 @@
+C:\Users\Santiago\Downloads\SFML-Template-master\SFML-Template-master\x64\Debug\SetPlot.exe
+C:\Users\Santiago\Desktop\GameEngine\VS Projects\SFML1\x64\Debug\SetPlot.exe
+C:\Users\Santiago\Desktop\GameEngine\VS Projects\SFML\x64\Debug\SFML.exe
+C:\Users\Santiago\Desktop\GameEngine\VS Projects\Timber\x64\Debug\SFML.exe
